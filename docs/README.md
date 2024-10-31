@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e20-co227-ACES-fund-and-inventory-management-system
+title: ACES-Fundventory
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -20,9 +20,10 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/20/276, Nisitha Padeniya, [e20276@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/20/318, Janindu Ranawaka, [e20318@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/20/305, Sachindu Premasiri, [e20305@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/20/447, Madawa Wijesooriya, [e20447@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)

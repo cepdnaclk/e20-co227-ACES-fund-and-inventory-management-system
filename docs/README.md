@@ -9,7 +9,7 @@ title: ACES-Fundventory
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# ACES-Fundventory
 
 ---
 
@@ -34,7 +34,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+The ACES Inventory and Fund Management System aims to digitalize and streamline inventory and fund request processes for ACES. By replacing the outdated paper-based system, it provides a user-friendly digital platform that improves real-time tracking, reduces manual errors, and enhances productivity.
+
+Designed for administrators, inventory managers, and students, the system enables efficient management of stocks, funding requests, and approvals. Key features include real-time updates, automated notifications, secure record-keeping, and data-driven insights for better decision-making.
 
 ## Other Sub Topics
 
@@ -42,7 +44,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/e20-co227-ACES-fund-and-inventory-management-system){:target="_blank"}
 - [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
